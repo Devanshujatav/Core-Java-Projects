@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank_account_management_system/Bank Account Management System.iml" filepath="$PROJECT_DIR$/bank_account_management_system/Bank Account Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geometry_calculator/geometry_calculator.iml" filepath="$PROJECT_DIR$/geometry_calculator/geometry_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects.iml" filepath="$PROJECT_DIR$/projects.iml" />
+    </modules>
+  </component>
+</project>
